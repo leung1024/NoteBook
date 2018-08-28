@@ -4,6 +4,8 @@
 
 [数据分析](CSNote/DataAnalysis)
 
+[算法](CSNote/Algorithm)
+
 
 
 ## 关于
