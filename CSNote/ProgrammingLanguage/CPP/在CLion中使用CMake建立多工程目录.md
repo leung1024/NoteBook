@@ -4,7 +4,7 @@
 
 在一个项目中，不同的目录下都有各自的运行主程序。目录如下图所示：
 
-![image-20180906203214035](/Users/leung/test_file/my_github/NoteBook/CSNote/ProgrammingLanguage/CPP/imgs/image-20180906203131157.png)
+![image-20180906203214035](./imgs/image-20180906203131157.png)
 
 StringDemo的运行不会影响main的运行
 
