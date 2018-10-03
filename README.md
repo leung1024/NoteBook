@@ -2,6 +2,10 @@
 
 ## CS笔记
 
+[计算机基础](CSNote/BasicKnowledge)
+
+- [计算机网络](CSNote/BasicKnowledge/网络)
+
 [数据分析](CSNote/DataAnalysis)
 
 [算法](CSNote/Algorithm)
