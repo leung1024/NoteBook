@@ -40,13 +40,13 @@ net.ipv4.tcp_tw_reuse = 1 # Enable fast recycling TIME-WAIT sockets
 
 处于TIME_WAIT状态下的同一个IP和端口不能够立即被重新使用
 
-![img](/Users/leung/test_file/my_github/NoteBook/CSNote/BasicKnowledge/%E7%BD%91%E7%BB%9C/imgs/image1.png)
+![img](./imgs/image1.png)
 
 ## tcp_tw_reuse的使用效果
 
 即使处于TIME_WAIT状态，仍可以复用连接
 
-![img](/Users/leung/test_file/my_github/NoteBook/CSNote/BasicKnowledge/%E7%BD%91%E7%BB%9C/imgs/image2.png)
+![img](./imgs/image2.png)
 
 ## Reference
 
@@ -56,4 +56,3 @@ net.ipv4.tcp_tw_reuse = 1 # Enable fast recycling TIME-WAIT sockets
 - [The difference with tcp_tw_recycle and tcp_tw_reuse](http://linuxsyseng.blogspot.com/2017/03/the-difference-with-tcptwrecycle-and.html)
 - [RTO计算](https://blog.csdn.net/wdscq1234/article/details/52505191)
 - [Coping with the TCP TIME-WAIT state on busy Linux servers](https://vincent.bernat.ch/en/blog/2014-tcp-time-wait-state-linux#netipv4tcp_tw_recycle)
-
